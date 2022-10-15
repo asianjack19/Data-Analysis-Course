@@ -1,0 +1,501 @@
+postalcode;street;lat;lng;price;area;volume;floors;year_build;has_garden;type;photos;rooms
+1081 HR Amsterdam;Pekkendam 8;52.32780000;4.86200000;1700000;242;720;2;1964;1;woonhuis;26;7
+1060 PD Amsterdam;Pasubio 13;52.34910000;4.78350000;275000;84;281;2;1994;1;woonhuis;20;3
+1098 CB Amsterdam;Hogeweg 2 A2;52.35290000;4.94220000;740000;143;450;2;1900;0;appartement;20;6
+1013 AW Amsterdam;Silodam 384;52.38770000;4.88390000;38000;0;0;1;0;0;parkeergelegenheid;1;1
+1055 BN Amsterdam;Sanderijnstraat 29 III;52.38020000;4.85240000;285000;50;165;1;1940;1;appartement;21;3
+1066 DA Amsterdam;Gerrit van der Puijstraat 4;52.34600000;4.81630000;415000;129;441;3;1993;1;woonhuis;31;6
+1017 BA Amsterdam;Beulingstraat 6 /B;52.36300000;4.89240000;650000;124;353;1;1906;0;appartement;25;2
+1058 XK Amsterdam;Bonairestraat 64 hs;52.35790000;4.85100000;299000;59;227;1;1930;1;appartement;17;3
+1068 WX Amsterdam;Nicolaas Anslijnstraat 145;52.35920000;4.80520000;200000;82;200;2;1963;0;appartement;33;3
+1092 BB Amsterdam;Beukenplein 53;52.35650000;4.92280000;395000;82;237;1;1997;0;appartement;18;3
+1082 MS Amsterdam;Gustav Mahlerplein 227;52.33110000;4.87420000;945000;157;471;1;2009;0;appartement;35;3
+1055 RZ Amsterdam;Nieuwpoortstraat 86 B6;52.38020000;4.85240000;237500;49;174;1;2017;1;appartement;20;2
+1016 XM Amsterdam;Raamstraat 4;52.37090000;4.88160000;895000;135;464;6;1906;1;woonhuis;37;9
+1106 DS Amsterdam;Wamelplein 107;52.29910000;4.97540000;139500;60;177;4;1983;0;appartement;20;2
+1013 Amsterdam;Narva Eiland West (Bouwnr. 71);52.38770000;4.88390000;753919;142;355;2;2017;0;woonhuis;10;6
+1072 CV Amsterdam;Albert Cuypstraat 40 -3;52.35350000;4.89020000;250000;37;89;1;1906;0;appartement;19;2
+1086 ZR Amsterdam;William Barlowlaan 56;52.36280000;4.98190000;765000;208;804;4;2009;1;woonhuis;48;8
+1037 RS Amsterdam;Zijkanaal H-weg 61;52.42530000;4.86020000;585000;0;0;1;0;0;onbekend;1;1
+1068 NK Amsterdam;Pieter Calandlaan 395;52.35920000;4.80520000;199000;80;270;2;1965;0;appartement;17;3
+1064 HB Amsterdam;Slotermeerlaan 18 B;52.37420000;4.82180000;395000;119;315;1;1999;0;appartement;14;3
+1019 MA Amsterdam;Levantplein 1 *;52.37330000;4.93910000;1960000;407;1400;4;1992;0;woonhuis;41;10
+1055 NH Amsterdam;Admiraal De Ruijterweg 482;52.38020000;4.85240000;300000;62;233;1;1931;1;appartement;18;3
+1058 NK Amsterdam;Legmeerplein 19 III;52.35790000;4.85100000;295000;61;155;1;1932;0;appartement;18;3
+1051 NW Amsterdam;Haarlemmerweg 271 -A;52.38180000;4.87170000;375000;80;192;9;1996;0;appartement;15;3
+1015 NT Amsterdam;Tweede Anjeliersdwarsstraat 8 C;52.37840000;4.88360000;275000;41;188;2;1974;0;appartement;18;3
+1066 PB Amsterdam;Mechelensingel 49;52.34600000;4.81630000;319500;110;377;3;1992;1;woonhuis;29;4
+1057 GV Amsterdam;Van Speijkstraat 135 huis;52.36770000;4.85510000;750000;135;452;2;1924;1;appartement;28;4
+1087 LB Amsterdam;Ben van Meerendonkstraat 39;52.35390000;5.00050000;250000;81;263;1;2001;0;appartement;27;3
+1019 CV Amsterdam;Dick Greinerstraat 86;52.37330000;4.93910000;250000;63;190;1;1987;0;appartement;22;3
+1073 TB Amsterdam;Karel du Jardinstraat 53 HS+PP;52.35320000;4.89820000;550000;83;328;1;2000;1;appartement;39;3
+1036 KC Amsterdam;Kwekerijlaan 34;52.40820000;4.90250000;400000;136;458;3;2008;1;woonhuis;32;7
+1019 PE Amsterdam;Bogortuin 187;52.37330000;4.93910000;575000;110;300;8;2001;0;appartement;23;3
+1075 CV Amsterdam;Koninginneweg 257 hs;52.35180000;4.85860000;1350000;210;590;3;1903;1;appartement;34;7
+1076 KS Amsterdam;Argonautenstraat 48 2;52.34550000;4.86070000;300000;62;210;1;1935;0;appartement;12;3
+1068 JH Amsterdam;Eastonstraat 227 *;52.35920000;4.80520000;225000;77;220;1;1964;0;appartement;18;4
+1082 EW Amsterdam;Koxhorn 19 1;52.33110000;4.87420000;325000;76;220;1;1962;0;appartement;29;3
+1024 CN Amsterdam;Ganzenveldstraat 55;52.39390000;4.95470000;250000;91;245;2;1965;1;woonhuis;22;5
+1013 SM Amsterdam;Van Noordtstraat 9 -B;52.38770000;4.88390000;175000;32;95;1;1901;0;appartement;23;1
+1011 VM Amsterdam;Rapenburgerstraat 171 C;52.37100000;4.90410000;725000;140;588;1;1790;0;appartement;27;4
+1097 EW Amsterdam;Maxwellstraat 2;52.34650000;4.93010000;650000;155;500;2;1945;1;woonhuis;46;5
+1074 JH Amsterdam;Amsteldijk 724;52.35390000;4.90420000;519000;0;0;1;0;0;onbekend;1;1
+1102 VN Amsterdam;Alfred Döblinstraat 126;52.31660000;4.95170000;185000;70;179;1;1985;0;appartement;1;3
+1054 JK Amsterdam;Gerard Brandtstraat 18;52.36170000;4.86690000;1650000;297;1093;5;1880;1;woonhuis;28;10
+1076 CA Amsterdam;Donarstraat 11 III;52.34550000;4.86070000;800000;125;428;3;1931;1;appartement;46;4
+1071 VV Amsterdam;Cornelis Anthoniszstraat 30 III;52.35520000;4.87890000;350000;63;210;3;1900;0;appartement;18;3
+1019 TM Amsterdam;Wisselstraat 2;52.37330000;4.93910000;599000;134;418;3;1999;0;appartement;46;4
+1108 CB Amsterdam;Leerdamhof 314;52.30820000;4.98070000;180000;87;220;2;1980;0;appartement;31;3
+1026 CD Amsterdam;Durgerdammerdijk 93;52.37880000;4.99050000;650000;110;370;2;1906;1;woonhuis;43;4
+1071 CH Amsterdam;Pieter Cornelisz. Hooftstraat 176;52.35520000;4.87890000;4250000;294;986;2;2016;1;appartement;42;3
+1058 DS Amsterdam;Postjeskade 183 I;52.35790000;4.85100000;275000;60;198;1;1935;0;appartement;30;4
+1016 PA Amsterdam;Rozenstraat 200 -G;52.37090000;4.88160000;285000;42;110;1;2007;1;appartement;21;2
+1021 NP Amsterdam;Buitenzagerij 63;52.38460000;4.91720000;200000;41;130;4;1983;0;appartement;34;2
+1083 GR Amsterdam;Arent Janszoon Ernststraat 91;52.33020000;4.88440000;385000;115;300;1;1969;0;appartement;19;3
+1072 XG Amsterdam;Daniël Stalpertstraat 22 III;52.35350000;4.89020000;325000;56;155;2;1882;0;appartement;15;3
+1024 CX Amsterdam;Markengouw 131;52.39390000;4.95470000;385000;120;403;3;2016;1;woonhuis;37;5
+1069 KE Amsterdam;Johan Hofmanstraat 90;52.35560000;4.79070000;429000;138;400;3;2009;1;woonhuis;22;5
+1064 CK Amsterdam;Burgemeester Hogguerstraat 13;52.37420000;4.82180000;37500;0;0;1;0;0;parkeergelegenheid;2;1
+1057 DB Amsterdam;Hoofdweg 148 -II;52.36770000;4.85510000;260000;55;185;1;1906;0;appartement;30;3
+1083 DD Amsterdam;Van Heenvlietlaan 299 nvt;52.33020000;4.88440000;36000;0;0;1;0;0;parkeergelegenheid;1;1
+1063 ML Amsterdam;Willem Kraanstraat 48;52.38140000;4.82590000;149000;42;110;1;1957;0;appartement;24;2
+1012 DV Amsterdam;Oudezijds Achterburgwal 140 ah;52.37350000;4.89510000;625000;101;300;4;1906;1;appartement;20;4
+1087 JE Amsterdam;Sem Presserhof 127;52.35390000;5.00050000;450000;132;395;3;2005;1;woonhuis;32;4
+1087 BV Amsterdam;Oeverzeggestraat 26;52.35390000;5.00050000;550000;134;495;3;2005;0;woonhuis;24;5
+1073 TE Amsterdam;Karel du Jardinstraat 84 -I;52.35320000;4.89820000;289000;52;143;1;1916;0;appartement;15;3
+1076 NC Amsterdam;Van Tuyll van Serooskerkenplein 50 -III;52.34550000;4.86070000;300000;62;161;1;1906;0;appartement;23;4
+1104 DH Amsterdam;Koolpalmhof 26;52.31640000;4.97760000;265000;130;360;1;2003;0;woonhuis;1;5
+1083 HM Amsterdam;Tommaso Albinonistraat 8;52.33020000;4.88440000;420000;118;360;1;2006;0;appartement;28;3
+1096 DS Amsterdam;STATE Amsterdam (Bouwnr. 296);52.33870000;4.91970000;635861;103;258;1;2016;0;appartement;2;3
+1051 HM Amsterdam;Van Hallstraat 272;52.38180000;4.87170000;275000;60;144;1;1910;0;appartement;26;3
+1081 EK Amsterdam;Bolestein 574;52.32780000;4.86200000;360000;93;290;1;1967;0;appartement;1;3
+1023 EG Amsterdam;Kwadijkerstraat 5;52.38990000;4.94700000;225000;54;235;2;1927;1;woonhuis;34;3
+1066 NN Amsterdam;Vorselaarstraat 8;52.34600000;4.81630000;315000;102;341;3;1992;1;woonhuis;22;4
+1079 WZ Amsterdam;Zomerdijkstraat 23 HS;52.34230000;4.90360000;315000;56;212;1;1930;1;appartement;24;2
+1053 HB Amsterdam;Jacob van Lennepstraat 31 -1 A;52.36680000;4.86810000;200000;35;105;1;1906;0;appartement;24;1
+1064 PR Amsterdam;Tretjakovlaan 68;52.37420000;4.82180000;339000;105;250;16;1998;0;appartement;25;3
+1074 EH Amsterdam;Kuipersstraat 75 I;52.35390000;4.90420000;299000;51;170;4;1906;0;appartement;22;2
+1074 CE Amsterdam;Govert Flinckstraat 332;52.35390000;4.90420000;1150000;244;802;4;1881;1;woonhuis;31;7
+1058 EK Amsterdam;Nachtwachtlaan 279;52.35790000;4.85100000;385000;124;319;1;1970;0;appartement;19;5
+1052 NH Amsterdam;De Clercqstraat 56 III;52.37700000;4.87400000;650000;124;436;2;1906;0;appartement;34;4
+1069 EH Amsterdam;Langswater 899;52.35560000;4.79070000;159000;61;165;1;1970;0;appartement;19;3
+1102 XE Amsterdam;Charlotte Brontéstraat 36;52.31660000;4.95170000;155000;69;173;1;1984;0;appartement;16;3
+1051 DC Amsterdam;De Kempenaerstraat 183 hs.;52.38180000;4.87170000;360000;76;210;1;1998;1;appartement;13;3
+1066 WS Amsterdam;Denderhof 8;52.34600000;4.81630000;275000;80;295;2;1996;1;woonhuis;33;2
+1091 VA Amsterdam;Vrolikstraat 259 A;52.35560000;4.91350000;300000;60;150;1;1981;1;appartement;16;2
+1075 HV Amsterdam;Emmastraat 22;52.35180000;4.85860000;4700000;460;1400;6;1910;1;woonhuis;18;15
+1012 WP Amsterdam;Singel 455 E;52.37350000;4.89510000;1750000;169;854;1;1998;1;appartement;24;2
+1068 JH Amsterdam;Eastonstraat 223;52.35920000;4.80520000;200000;76;245;1;1964;0;appartement;33;3
+1066 ER Amsterdam;Akersluis 11;52.34600000;4.81630000;589000;0;0;1;0;0;onbekend;1;1
+1079 NG Amsterdam;President Kennedylaan 62 II;52.34230000;4.90360000;625000;121;376;2;1934;1;appartement;25;5
+1061 BM Amsterdam;Blauwvoetstraat 61;52.37360000;4.83950000;250000;40;106;1;2009;0;appartement;15;2
+1053 WS Amsterdam;Da Costakade 121 A;52.36680000;4.86810000;499000;102;306;1;1981;1;appartement;31;4
+1091 TH Amsterdam;Marcusstraat;52.35560000;4.91350000;42500;0;0;1;0;0;parkeergelegenheid;6;1
+1035 ST Amsterdam;Johannes J. Glasweg 89;52.41960000;4.89440000;295000;120;300;3;1991;1;woonhuis;30;5
+1077 ZJ Amsterdam;Watteaustraat 13 I;52.34600000;4.87380000;435000;75;237;1;1951;0;appartement;31;3
+1079 LR Amsterdam;Hoendiepstraat 15 hs;52.34230000;4.90360000;400000;73;231;1;1934;1;appartement;27;3
+1094 PG Amsterdam;Insulindeweg 113 1;52.36260000;4.93600000;225000;50;171;1;1924;0;appartement;21;2
+1016 RG Amsterdam;Lauriergracht 45 F;52.37090000;4.88160000;525000;86;275;2;1905;1;appartement;30;3
+1069 TS Amsterdam;Langswater 223;52.35560000;4.79070000;169000;72;235;1;1960;0;appartement;28;4
+1076 TS Amsterdam;Sportstraat 45 -3;52.34550000;4.86070000;275000;52;140;1;1926;0;appartement;17;3
+1062 GA Amsterdam;Maassluisstraat 39;52.35480000;4.83810000;495000;0;0;1;0;0;onbekend;1;1
+1091 LT Amsterdam;Transvaalkade 131 - I;52.35560000;4.91350000;300000;56;185;3;1928;0;appartement;37;2
+1012 SN Amsterdam;Hekelveld 7 B;52.37350000;4.89510000;850000;0;0;1;0;0;onbekend;1;1
+1060 NK Amsterdam;Akersingel 169;52.34910000;4.78350000;250000;93;269;1;1997;0;appartement;21;4
+1051 PM Amsterdam;Waterrijkweg 386;52.38180000;4.87170000;400000;88;267;2;1997;0;appartement;21;3
+1068 PM Amsterdam;Oeverpad 545;52.35920000;4.80520000;300000;109;386;1;2004;0;appartement;25;3
+1011 HS Amsterdam;Groenburgwal 55 -B;52.37100000;4.90410000;899000;132;503;2;1750;0;appartement;25;4
+1028 BM Amsterdam;Dorpsweg Ransdorp 129;52.40140000;5.00730000;875000;164;565;2;1840;1;woonhuis;33;6
+1032 AX Amsterdam;Aurikelstraat 98;52.39640000;4.91260000;275000;90;310;2;1930;0;appartement;35;5
+1012 VG Amsterdam;Singel 93 bel;52.37350000;4.89510000;950000;185;644;2;1899;0;appartement;21;4
+1068 ZZ Amsterdam;Meer en Vaart 68 -A;52.35920000;4.80520000;335000;123;400;1;2009;0;appartement;29;3
+1096 DT Amsterdam;STATE Amsterdam (Bouwnr. 270);52.33870000;4.91970000;395000;64;160;1;2017;0;appartement;1;2
+1091 SL Amsterdam;Burmandwarsstraat 67;52.35560000;4.91350000;347500;87;300;2;1983;0;appartement;30;3
+1092 CA Amsterdam;Eikenweg 28;52.35650000;4.92280000;275000;60;155;6;1972;0;appartement;15;3
+1051 EL Amsterdam;Groen van Prinstererstraat 79 -3;52.38180000;4.87170000;475000;84;269;2;1906;0;appartement;32;3
+1067 MT Amsterdam;Jan van Duivenvoordestraat 77;52.37860000;4.79870000;225000;95;250;8;2001;0;appartement;21;3
+1051 VE Amsterdam;Van der Hoopstraat 121 H;52.38180000;4.87170000;259000;42;174;1;1906;1;appartement;26;2
+1060 ML Amsterdam;Sporadenlaan 11;52.34910000;4.78350000;325000;128;365;3;2003;0;appartement;23;4
+1054 ZW Amsterdam;Jacob van Lennepkade 307 4;52.36170000;4.86690000;425000;58;135;1;1920;1;appartement;15;3
+1079 ZW Amsterdam;Bernissestraat 8 B;52.34230000;4.90360000;275000;50;153;1;2008;0;appartement;21;2
+1092 VV Amsterdam;Retiefstraat 13 III;52.35650000;4.92280000;425000;100;300;2;1906;0;appartement;41;4
+1025 AN Amsterdam;Elpermeer 198;52.39900000;4.93610000;135000;28;70;1;1960;0;appartement;19;1
+1054 ZC Amsterdam;Pieter Langendijkstraat 46 -II;52.36170000;4.86690000;375000;57;205;1;1910;0;appartement;32;3
+1016 CR Amsterdam;Leidsegracht 78;52.37090000;4.88160000;3000000;440;1300;1;1906;1;woonhuis;52;12
+1012 AK Amsterdam;Sint Olofssteeg 6 B;52.37350000;4.89510000;235000;37;114;1;1906;0;appartement;14;2
+1097 AC Amsterdam;Ringdijk 24 I;52.34650000;4.93010000;375000;66;228;1;1908;0;appartement;25;3
+1058 SP Amsterdam;Vogelenzangstraat 51 1;52.35790000;4.85100000;315000;56;182;4;1931;0;appartement;22;4
+1103 SE Amsterdam;'s-Gravendijkdreef 158;52.32310000;4.97220000;299000;110;281;1;2007;0;woonhuis;1;5
+1076 KS Amsterdam;Argonautenstraat 48 II;52.34550000;4.86070000;300000;62;210;1;1906;0;appartement;11;3
+1102 SV Amsterdam;Anna Blamansingel 130;52.31660000;4.95170000;165000;49;130;8;2006;0;appartement;18;2
+1063 TX Amsterdam;Dirk Bonsstraat 2 3;52.38140000;4.82590000;189000;66;237;1;1953;0;appartement;17;3
+1015 JT Amsterdam;Goudsbloemstraat 122 HS;52.37840000;4.88360000;349000;68;200;1;2002;1;appartement;19;2
+1103 GH Amsterdam;Grubbehoeve 28;52.32310000;4.97220000;169500;77;248;1;2006;0;appartement;13;3
+1077 TD Amsterdam;Stadionweg 208;52.34600000;4.87380000;1250000;163;456;1;1906;1;appartement;35;5
+1051 TT Amsterdam;Joan Melchior Kemperstraat 66 III;52.38180000;4.87170000;550000;97;303;2;1910;0;appartement;21;5
+1081 JR Amsterdam;Amstelveenseweg 982 c;52.32780000;4.86200000;500000;102;335;2;2006;1;appartement;45;3
+1062 DA Amsterdam;Derkinderenstraat 49 L;52.35480000;4.83810000;250000;83;260;1;1992;0;appartement;29;3
+1094 AV Amsterdam;Lampongstraat 18 I hg;52.36260000;4.93600000;240000;55;165;4;1914;0;appartement;25;2
+1098 BD Amsterdam;Linnaeuskade 7 15;52.35290000;4.94220000;40000;0;0;1;0;0;parkeergelegenheid;6;1
+1091 RT Amsterdam;Swammerdamstraat 6 III/IV;52.35560000;4.91350000;675000;131;385;2;1882;0;appartement;38;4
+1055 MD Amsterdam;Admiraal De Ruijterweg 401 -III;52.38020000;4.85240000;289000;70;184;1;1906;0;appartement;25;3
+1060 SH Amsterdam;Dinarpromenade 14;52.34910000;4.78350000;225000;65;214;3;1998;1;appartement;21;2
+1063 ML Amsterdam;Willem Kraanstraat 80;52.38140000;4.82590000;155000;42;215;4;1957;0;appartement;17;3
+1054 KJ Amsterdam;Overtoom 502 hs;52.36170000;4.86690000;775000;118;322;1;1911;1;appartement;35;5
+1098 SE Amsterdam;Lord Kelvinstraat 13 2;52.35290000;4.94220000;260000;67;160;1;1955;0;appartement;19;3
+1082 MS Amsterdam;Gustav Mahlerplein 147;52.33110000;4.87420000;845000;157;560;1;2010;0;appartement;53;4
+1094 HL Amsterdam;Javastraat 76 IV;52.36260000;4.93600000;300000;59;145;4;1903;0;appartement;23;2
+1066 SC Amsterdam;Belgiëplein 100;52.34600000;4.81630000;250000;80;232;1;1994;0;appartement;16;3
+1095 CL Amsterdam;Javastraat 164 -IV;52.36660000;4.95200000;215000;38;80;1;1925;0;appartement;25;2
+1012 EW Amsterdam;Oudezijds Voorburgwal 187 C;52.37350000;4.89510000;450000;87;220;4;1906;0;appartement;18;2
+1067 TC Amsterdam;Osdorperweg 824 D;52.37860000;4.79870000;449000;163;473;3;1998;1;woonhuis;25;7
+1091 TM Amsterdam;Overamstelstraat 63;52.35560000;4.91350000;475000;97;293;1;1991;0;appartement;30;4
+1060 RE Amsterdam;Ladogameerhof 154;52.34910000;4.78350000;239000;88;164;1;1998;0;appartement;1;4
+1098 WS Amsterdam;Praterlaan 86;52.35290000;4.94220000;350000;96;278;1;2001;0;appartement;19;3
+1032 LL Amsterdam;Ridderspoorweg 259;52.39640000;4.91260000;250000;45;115;1;2016;0;appartement;21;1
+1064 CT Amsterdam;Burgemeester Hogguerstraat 473;52.37420000;4.82180000;160000;45;150;1;1965;0;appartement;23;2
+1055 CB Amsterdam;Esmoreitstraat 41 huis;52.38020000;4.85240000;269000;52;150;1;1945;1;appartement;21;2
+1102 AX Amsterdam;Raoul Wallenbergstraat 71;52.31660000;4.95170000;239000;91;255;1;2010;0;appartement;20;3
+1058 HV Amsterdam;Andreas Schelfhoutstraat 30;52.35790000;4.85100000;239500;0;0;1;0;0;onbekend;1;1
+1052 GJ Amsterdam;Fagelstraat 100 III;52.37700000;4.87400000;675000;120;373;2;1905;0;appartement;48;4
+1068 SL Amsterdam;Wildeman 65;52.35920000;4.80520000;250000;94;270;1;2000;0;appartement;20;4
+1019 PE Amsterdam;Bogortuin 1;52.37330000;4.93910000;40000;0;0;1;0;0;onbekend;1;1
+1067 TJ Amsterdam;Lutkemeerweg 73;52.37860000;4.79870000;795000;125;350;2;1923;1;woonhuis;49;5
+1019 HT Amsterdam;Zeeburgerkade 810;52.37330000;4.93910000;375000;76;247;2;1990;0;appartement;35;3
+1069 WJ Amsterdam;Ingelandenweg 174;52.35560000;4.79070000;250000;95;285;2;1965;1;woonhuis;25;5
+1058 DT Amsterdam;Postjeskade 193 III;52.35790000;4.85100000;450000;88;277;3;1935;1;appartement;24;5
+1073 BV Amsterdam;Govert Flinckstraat 203 hs;52.35320000;4.89820000;799000;118;443;2;1906;0;appartement;24;4
+1066 WK Amsterdam;Knokkestraat 25;52.34600000;4.81630000;375000;120;362;2;1996;1;woonhuis;27;4
+1071 EH Amsterdam;Pieter de Hoochstraat 74 IV+Dakt;52.35520000;4.87890000;750000;118;344;2;1914;0;appartement;39;4
+1063 AJ Amsterdam;Harry Koningsbergerstraat 228;52.38140000;4.82590000;129000;30;90;1;1958;0;appartement;14;1
+1056 XH Amsterdam;Jan Haringstraat 8 III;52.37320000;4.85600000;244500;51;170;1;1939;0;appartement;29;3
+1059 AA Amsterdam;Aalsmeerweg 23 II;52.34880000;4.84680000;299000;54;150;1;1906;0;appartement;14;3
+1078 EJ Amsterdam;Churchill-laan 62 2;52.34640000;4.89770000;350000;63;210;1;1925;0;appartement;12;3
+1093 DC Amsterdam;Von Zesenstraat 169;52.36180000;4.92800000;400000;95;240;1;1988;0;appartement;15;4
+1071 HN Amsterdam;Willemsparkweg 116;52.35520000;4.87890000;2480000;320;1265;4;1906;1;woonhuis;40;8
+1066 GG Amsterdam;Duke Ellingtonstraat;52.34600000;4.81630000;16000;0;0;1;0;0;parkeergelegenheid;1;1
+1072 VJ Amsterdam;Gerard Doustraat 23 Boven;52.35350000;4.89020000;699000;118;370;5;1906;0;appartement;26;4
+1046 Amsterdam;Limmerick Garagebox/Opslag;52.39150000;4.78470000;29500;0;0;1;0;0;parkeergelegenheid;7;1
+1056 PV Amsterdam;Orteliusstraat 362 HS;52.37320000;4.85600000;425000;78;283;1;1931;1;appartement;32;3
+1069 MN Amsterdam;Zwarte Pad 10;52.35560000;4.79070000;498000;0;0;1;0;0;onbekend;1;1
+1093 XA Amsterdam;Tweede van Swindenstraat 178 -G;52.36180000;4.92800000;450000;90;280;1;2014;0;appartement;38;4
+1055 AR Amsterdam;Griseldestraat 9 hs;52.38020000;4.85240000;275000;68;228;2;1940;0;appartement;38;4
+1055 BN Amsterdam;Sanderijnstraat 17 -II;52.38020000;4.85240000;250000;57;166;1;1940;0;appartement;30;4
+1103 TB Amsterdam;Bijlmerdreef 867;52.32310000;4.97220000;199000;100;280;2;2000;1;appartement;15;5
+1053 LZ Amsterdam;Nassaukade 354;52.36680000;4.86810000;450000;65;275;4;1887;0;appartement;40;4
+1017 ZL Amsterdam;Huidekoperstraat 9 hs;52.36300000;4.89240000;325000;53;212;1;1906;1;appartement;26;2
+1066 TC Amsterdam;Kortrijk 54;52.34600000;4.81630000;695000;163;597;3;1995;1;woonhuis;49;6
+1103 AS Amsterdam;Empangeni 39;52.32310000;4.97220000;285000;131;356;3;2006;1;woonhuis;20;5
+1061 DJ Amsterdam;Bos en Lommerweg 280;52.37360000;4.83950000;365000;96;281;1;2011;0;appartement;28;4
+1018 WT Amsterdam;Nieuwe Achtergracht 104 G;52.36760000;4.91840000;549000;88;302;5;1887;0;appartement;26;3
+1108 CW Amsterdam;Leusdenhof 77;52.30820000;4.98070000;179500;69;185;1;1976;0;appartement;15;3
+1013 KH Amsterdam;Haarlemmerdijk 169 boven;52.38770000;4.88390000;565000;85;265;2;1906;0;appartement;52;4
+1054 EV Amsterdam;Roemer Visscherstraat 9;52.36170000;4.86690000;2500000;350;1372;4;1892;1;woonhuis;34;10
+1095 MT Amsterdam;Lien Gisolfpad 1;52.36660000;4.95200000;225000;50;175;1;2016;1;appartement;27;2
+1053 KB Amsterdam;Jacob van Lennepstraat 238 B;52.36680000;4.86810000;349000;62;148;1;1904;0;appartement;25;2
+1098 LH Amsterdam;Helmholtzstraat 87 II;52.35290000;4.94220000;295000;70;210;3;1945;0;appartement;23;3
+1077 WK Amsterdam;Herman Heijermansweg 43;52.34600000;4.87380000;4850000;365;1200;3;2006;1;woonhuis;15;10
+1092 XS Amsterdam;Smitstraat 28 -1;52.35650000;4.92280000;295000;66;185;1;1912;0;appartement;24;2
+1082 MX Amsterdam;Gustav Mahlerlaan;52.33110000;4.87420000;450000;93;325;1;2017;0;appartement;4;3
+1018 DG Amsterdam;Plantage Middenlaan 36;52.36760000;4.91840000;3490000;495;1400;4;1892;1;woonhuis;65;10
+1017 KG Amsterdam;Prinsengracht 468;52.36300000;4.89240000;4500000;335;1193;1;1906;0;appartement;44;4
+1055 DK Amsterdam;Leeuwendael (Bouwnr. 14);52.38020000;4.85240000;422000;112;337;3;2017;1;woonhuis;12;5
+1071 WH Amsterdam;Joh.M. Coenenstraat 64 PP;52.35520000;4.87890000;50000;0;0;1;0;0;parkeergelegenheid;5;1
+1104 KN Amsterdam;Kraailookstraat 1;52.31640000;4.97760000;270000;131;360;3;2006;1;woonhuis;15;6
+1017 LC Amsterdam;Prinsengracht 736 A*;52.36300000;4.89240000;650000;100;330;1;1906;0;appartement;18;3
+1055 AX Amsterdam;Griseldestraat 28 II;52.38020000;4.85240000;250000;57;148;1;1931;0;appartement;25;3
+1102 EE Amsterdam;Hofgeest 93;52.31660000;4.95170000;120000;66;204;1;1969;0;appartement;34;2
+1052 VH Amsterdam;Gillis van Ledenberchstraat 34 B;52.37700000;4.87400000;695000;143;453;1;2010;0;appartement;32;3
+1078 EK Amsterdam;Churchill-laan 70 huis;52.34640000;4.89770000;550000;83;271;1;1906;1;appartement;25;3
+1018 WE Amsterdam;Roetersstraat 148;52.36760000;4.91840000;349000;70;221;1;1980;0;appartement;22;3
+1058 AM Amsterdam;Stuyvesantstraat 34 I;52.35790000;4.85100000;265000;51;137;1;1926;0;appartement;22;3
+1102 TS Amsterdam;Barbusselaan 99;52.31660000;4.95170000;129000;54;135;1;1986;1;appartement;19;2
+1057 GG Amsterdam;Admiralengracht 138 I;52.36770000;4.85510000;275000;51;168;1;1925;0;appartement;15;2
+1063 EL Amsterdam;Jan Janzenstraat 10;52.38140000;4.82590000;300000;133;451;3;1945;0;woonhuis;38;7
+1087 Amsterdam;Joris Ivensplein;52.35390000;5.00050000;14500;0;0;1;0;0;parkeergelegenheid;3;1
+1034 WD Amsterdam;Ibrahim Moustafapad 12;52.40750000;4.91700000;250000;87;300;1;1994;1;appartement;28;4
+1072 JH Amsterdam;Cornelis Trooststraat 50 II;52.35350000;4.89020000;300000;53;174;1;1906;0;appartement;25;3
+1072 JB Amsterdam;Cornelis Trooststraat 35 III;52.35350000;4.89020000;575000;120;355;1;1927;0;appartement;1;3
+1016 RJ Amsterdam;Lauriergracht 107 A;52.37090000;4.88160000;600000;80;270;1;1906;1;appartement;20;2
+1034 GA Amsterdam;Statenjachtstraat 159;52.40750000;4.91700000;260000;92;270;1;2011;0;appartement;31;3
+1069 RR Amsterdam;Jan van Zutphenstraat 211;52.35560000;4.79070000;375000;70;185;11;2001;0;appartement;6;3
+1019 PG Amsterdam;Bogortuin 84;52.37330000;4.93910000;550000;103;329;1;2000;0;appartement;39;3
+1015 DW Amsterdam;Prinsengracht 26;52.37840000;4.88360000;1995000;168;597;5;1969;0;woonhuis;52;6
+1072 TG Amsterdam;Van Ostadestraat 152 -sous;52.35350000;4.89020000;1075000;192;661;2;1902;1;appartement;24;6
+1012 JS Amsterdam;Dam 5 /E;52.37350000;4.89510000;1250000;129;360;1;2017;0;appartement;20;3
+1035 TS Amsterdam;Stoombootweg 19;52.41960000;4.89440000;799000;125;425;2;1984;1;woonhuis;42;3
+1013 RW Amsterdam;Zaanstraat 113 huis;52.38770000;4.88390000;315000;55;158;1;1906;1;appartement;22;3
+1093 DL Amsterdam;Pieter Vlamingstraat 167;52.36180000;4.92800000;275000;70;221;1;1992;0;appartement;48;3
+1075 HL Amsterdam;De Lairessestraat 144 3;52.35180000;4.85860000;1595000;228;759;3;1906;0;appartement;33;6
+1015 DR Amsterdam;Prinsengracht 151 E;52.37840000;4.88360000;799000;96;365;2;1005;0;appartement;28;3
+1077 ES Amsterdam;Gerrit van der Veenstraat 132 -huis;52.34600000;4.87380000;975000;188;648;3;1927;1;appartement;30;6
+1054 CT Amsterdam;Tweede Constantijn Huygensstraat 4 e;52.36170000;4.86690000;65000;0;0;1;0;0;parkeergelegenheid;1;1
+1012 DJ Amsterdam;Oudezijds Achterburgwal 173 -B;52.37350000;4.89510000;250000;33;109;1;1770;0;appartement;19;1
+1074 XT Amsterdam;Tweede Jan van der Heijdenstraat 91 D;52.35390000;4.90420000;440000;68;205;2;1880;0;appartement;21;4
+1053 BX Amsterdam;Ten Katestraat 45 2;52.36680000;4.86810000;239000;42;136;1;1906;0;appartement;29;2
+1106 SX Amsterdam;Parkhof 45;52.29910000;4.97540000;292500;122;325;3;1993;1;woonhuis;24;4
+1012 WP Amsterdam;Singel 463 F;52.37350000;4.89510000;1500000;125;423;1;1997;0;appartement;20;2
+1025 CW Amsterdam;Dijkwater 225;52.39900000;4.93610000;211000;0;0;1;0;0;onbekend;1;1
+1062 CG Amsterdam;Theodoor van Hoytemastraat 25;52.35480000;4.83810000;347500;110;330;1;2003;0;appartement;22;4
+1075 AA Amsterdam;Koningslaan;52.35180000;4.85860000;8500000;542;2318;5;1907;1;woonhuis;16;11
+1072 TN Amsterdam;Eerste Jan van der Heijdenstraat 103 II;52.35350000;4.89020000;325000;50;158;1;1897;0;appartement;20;2
+1017 GA Amsterdam;Kerkstraat 11 -C;52.36300000;4.89240000;499000;82;280;1;1906;0;appartement;22;3
+1074 EN Amsterdam;Kuipersstraat 86 I-IV;52.35390000;4.90420000;750000;125;391;4;1906;1;appartement;37;5
+1107 AX Amsterdam;Wethouder In 't Veldstraat 49;52.29320000;4.98030000;155000;65;202;1;1984;1;appartement;20;3
+1107 PV Amsterdam;Toutenburgstraat 52;52.29320000;4.98030000;150000;70;210;4;1984;0;appartement;25;3
+1017 JA Amsterdam;Kerkstraat 360 A;52.36300000;4.89240000;699027;122;396;3;1989;1;appartement;43;4
+1087 EN Amsterdam;IJburglaan 933;52.35390000;5.00050000;385000;94;292;1;2009;0;appartement;16;3
+1025 NP Amsterdam;Noord-Bevelandstraat 15;52.39900000;4.93610000;235000;64;310;2;1932;1;woonhuis;29;3
+1058 CA Amsterdam;Curaçaostraat 82 I;52.35790000;4.85100000;295000;59;194;1;1935;0;appartement;18;4
+1094 CW Amsterdam;Delistraat 28 hs;52.36260000;4.93600000;300000;55;229;1;1903;1;appartement;25;2
+1095 MS Amsterdam;Zeeburger Zilt 2 (Bouwnr. 108);52.36660000;4.95200000;195500;42;105;1;2011;0;appartement;6;1
+1011 NA Amsterdam;Valkenburgerstraat 138 -L;52.37100000;4.90410000;400000;122;342;1;2014;0;appartement;25;3
+1055 DK Amsterdam;Leeuwendael (Bouwnr. 11);52.38020000;4.85240000;432000;112;337;3;2017;1;woonhuis;12;5
+1053 LV Amsterdam;Nassaukade 333 -hs;52.36680000;4.86810000;595000;110;295;2;1906;0;appartement;33;4
+1054 HG Amsterdam;Overtoom 147 II;52.36170000;4.86690000;650000;116;452;2;1882;0;appartement;30;4
+1106 GP Amsterdam;Mijndenhof 62;52.29910000;4.97540000;289500;120;287;3;1981;1;woonhuis;21;5
+1086 ZR Amsterdam;Zeeburgerbaai bwnr. 1 (Bouwnr. 0);52.36280000;4.98190000;620000;155;589;3;2017;1;woonhuis;7;5
+1102 SR Amsterdam;Anna Blamansingel 1;52.31660000;4.95170000;239500;101;294;8;2006;0;appartement;18;3
+1019 PE Amsterdam;Bogortuin 205;52.37330000;4.93910000;495000;117;361;1;1991;1;appartement;29;3
+1069 HK Amsterdam;Lederambachtstraat 180;52.35560000;4.79070000;200000;84;252;1;2004;0;appartement;31;3
+1012 EL Amsterdam;Oudezijds Voorburgwal 85 1;52.37350000;4.89510000;610000;85;280;1;1650;0;appartement;27;3
+1059 WE Amsterdam;De Lierhof 40;52.34880000;4.84680000;425000;84;204;1;2001;0;appartement;19;3
+1056 EP Amsterdam;Joos Banckersweg 14 2;52.37320000;4.85600000;300000;76;246;1;1939;0;appartement;33;3
+1018 ZW Amsterdam;Windroosplein 198;52.36760000;4.91840000;400000;52;166;7;1989;0;appartement;22;2
+1019 DN Amsterdam;Oostelijke Handelskade 1209;52.37330000;4.93910000;500000;94;265;1;1997;0;appartement;40;3
+1013 GP Amsterdam;Korte Prinsengracht 73 III;52.38770000;4.88390000;430000;76;208;1;1960;0;appartement;31;3
+1013 ER Amsterdam;Haarlemmerstraat 18 A;52.38770000;4.88390000;989000;159;441;4;1993;0;appartement;38;8
+1072 JC Amsterdam;Cornelis Trooststraat 53 -II;52.35350000;4.89020000;325000;56;186;1;1904;0;appartement;11;3
+1082 LT Amsterdam;Arent Janszoon Ernststraat;52.33110000;4.87420000;675000;118;310;5;2004;0;appartement;24;5
+1057 BB Amsterdam;Orteliusstraat 24 II&III;52.36770000;4.85510000;455000;116;356;2;1931;0;appartement;31;6
+1092 BV Amsterdam;Tweede Oosterparkstraat 318;52.35650000;4.92280000;595000;136;401;2;1892;0;appartement;29;4
+1068 LZ Amsterdam;Osdorper Ban 285;52.35920000;4.80520000;199000;67;238;1;1960;0;appartement;20;3
+1019 KJ Amsterdam;Borneolaan 218;52.37330000;4.93910000;335000;74;195;1;1990;0;appartement;24;3
+1069 GA Amsterdam;Osdorper Ban 587;52.35560000;4.79070000;275000;92;290;12;2007;0;appartement;31;3
+1082 CT Amsterdam;Boeckenburg 29;52.33110000;4.87420000;199000;67;200;1;1960;0;appartement;12;2
+1019 HW Amsterdam;Borneolaan 1;52.37330000;4.93910000;40000;0;0;1;0;0;onbekend;1;1
+1063 BN Amsterdam;Burgemeester De Vlugtlaan 287;52.38140000;4.82590000;160000;58;151;1;1958;0;appartement;23;2
+1087 JC Amsterdam;Maria Austriastraat 680;52.35390000;5.00050000;344000;126;378;7;2005;0;appartement;18;3
+1078 ST Amsterdam;Uithoornstraat 23 II;52.34640000;4.89770000;369000;74;242;1;1922;0;appartement;29;4
+1013 SN Amsterdam;Assendelftstraat 13;52.38770000;4.88390000;325000;65;195;4;1980;0;appartement;28;3
+1094 HB Amsterdam;Javastraat 91 -III;52.36260000;4.93600000;200000;31;104;1;1903;0;appartement;30;2
+1074 CL Amsterdam;Tweede Jan Steenstraat 75 4 V;52.35390000;4.90420000;188800;24;74;5;1906;0;appartement;21;1
+1021 NN Amsterdam;Buitendraaierij 38;52.38460000;4.91720000;255000;0;0;1;0;0;onbekend;1;1
+1066 SL Amsterdam;Berlaarstraat 68;52.34600000;4.81630000;305000;103;265;2;1995;1;woonhuis;22;4
+1087 CL Amsterdam;IJburglaan 785;52.35390000;5.00050000;280000;0;0;1;0;0;onbekend;1;1
+1035 CV Amsterdam;Wipmolen 13;52.41960000;4.89440000;199000;97;304;1;1969;0;appartement;17;4
+1052 LW Amsterdam;Hugo de Grootkade 70 B;52.37700000;4.87400000;450000;89;240;1;2004;0;appartement;25;3
+1096 AK Amsterdam;State Amsterdam;52.33870000;4.91970000;570977;103;268;1;2019;0;appartement;6;3
+1063 MH Amsterdam;Jan de Jonghkade 66;52.38140000;4.82590000;289000;95;285;1;1999;0;appartement;28;3
+1072 VK Amsterdam;Gerard Doustraat 31 HS;52.35350000;4.89020000;299000;50;180;1;1906;1;appartement;16;3
+1053 XD Amsterdam;Da Costakade 168 C;52.36680000;4.86810000;200000;29;93;1;1893;0;appartement;17;2
+1075 HD Amsterdam;Johannes Verhulststraat 184 bv;52.35180000;4.85860000;1200000;155;481;2;1908;1;appartement;29;5
+1016 EK Amsterdam;Keizersgracht 403 I;52.37090000;4.88160000;1250000;145;448;1;1669;0;appartement;44;4
+1059 TB Amsterdam;Abbenesstraat 11 III;52.34880000;4.84680000;399000;103;350;2;1935;0;appartement;24;6
+1053 ST Amsterdam;Jan Hanzenstraat 80;52.36680000;4.86810000;550000;85;299;3;2011;1;woonhuis;33;3
+1055 NZ Amsterdam;Doggersbankstraat 22 2;52.38020000;4.85240000;235000;48;155;1;1936;0;appartement;21;3
+1016 DH Amsterdam;Westermarkt 7 II;52.37090000;4.88160000;600000;115;357;3;1906;1;appartement;36;4
+1058 TE Amsterdam;Woestduinstraat 22;52.35790000;4.85100000;845000;126;325;2;1956;1;appartement;28;5
+1071 MK Amsterdam;Valeriusstraat 40 2;52.35520000;4.87890000;1050000;143;497;2;1906;1;appartement;30;4
+1055 RZ Amsterdam;Nieuwpoortstraat 86 A 9;52.38020000;4.85240000;408500;83;294;1;2017;0;appartement;20;2
+1019 AZ Amsterdam;Panamalaan 174;52.37330000;4.93910000;450000;120;395;2;2000;0;appartement;39;5
+1019 HD Amsterdam;Veembroederhof 221;52.37330000;4.93910000;500000;113;250;6;2001;0;appartement;34;3
+1013 KN Amsterdam;Grote Bickersstraat 39 hs;52.38770000;4.88390000;265000;43;165;1;1906;0;appartement;27;2
+1066 WH Amsterdam;Schaarbeekstraat 24;52.34600000;4.81630000;319500;120;335;3;1991;1;woonhuis;26;5
+1016 CE Amsterdam;Herengracht 326 III;52.37090000;4.88160000;749000;85;287;2;1899;0;appartement;18;3
+1055 RZ Amsterdam;Nieuwpoortstraat 86 D5;52.38020000;4.85240000;420000;84;244;2;2017;1;appartement;20;3
+1075 TE Amsterdam;Sluisstraat 18 I;52.35180000;4.85860000;289000;50;166;1;1912;0;appartement;12;2
+1104 HA Amsterdam;Kantershof 461;52.31640000;4.97760000;150000;50;183;1;1973;1;woonhuis;17;2
+1092 HE Amsterdam;Transvaalstraat 93 B-I;52.35650000;4.92280000;200000;46;151;1;1938;0;appartement;12;2
+1025 ZC Amsterdam;Amerbos 203;52.39900000;4.93610000;292500;140;432;3;1969;1;woonhuis;31;4
+1067 EH Amsterdam;Wigbolt Ripperdastraat 72;52.37860000;4.79870000;275000;120;325;2;2005;0;appartement;21;3
+1064 DC Amsterdam;Dom H. van der Laanstraat 20;52.37420000;4.82180000;425000;126;469;3;1999;1;woonhuis;31;6
+1017 DP Amsterdam;Keizersgracht 537;52.36300000;4.89240000;1400000;143;495;4;1906;0;woonhuis;2;6
+1092 AW Amsterdam;Oosterpark 85 hs;52.35650000;4.92280000;500000;86;368;2;1884;1;appartement;30;4
+1087 KH Amsterdam;Maria Austriastraat 732;52.35390000;5.00050000;23000;0;0;1;0;0;parkeergelegenheid;1;1
+1063 BK Amsterdam;Burgemeester De Vlugtlaan 145 C;52.38140000;4.82590000;225000;86;257;3;1958;0;appartement;19;4
+1016 GX Amsterdam;Prinsengracht 309 311;52.37090000;4.88160000;75000;0;0;1;0;0;parkeergelegenheid;1;1
+1017 KH Amsterdam;Prinsengracht 512 II;52.36300000;4.89240000;425000;72;277;1;1906;0;appartement;24;2
+1069 EE Amsterdam;Langswater 600;52.35560000;4.79070000;175000;70;210;13;1967;0;appartement;18;4
+1012 BH Amsterdam;Geldersekade 6;52.37350000;4.89510000;2850000;450;1473;6;1906;1;woonhuis;54;12
+1017 SW Amsterdam;Tweede Weteringdwarsstraat 10;52.36300000;4.89240000;1275000;170;560;4;1864;1;woonhuis;32;7
+1051 NV Amsterdam;Haarlemmerweg 259 C;52.38180000;4.87170000;350000;82;246;1;1998;0;appartement;17;3
+1012 JS Amsterdam;Dam 5 /Y;52.37350000;4.89510000;9100000;305;1200;1;2017;1;appartement;20;6
+1072 SL Amsterdam;Van Ostadestraat 5 -IV;52.35350000;4.89020000;399500;57;181;1;1906;0;appartement;24;3
+1075 PT Amsterdam;Lomanstraat 25 boven;52.35180000;4.85860000;1045000;156;542;2;1913;0;appartement;31;5
+1015 SC Amsterdam;Tweede Egelantiersdwarsstraat 22 I;52.37840000;4.88360000;219000;24;79;1;1737;1;appartement;19;2
+1025 NP Amsterdam;Noord-Bevelandstraat 13;52.39900000;4.93610000;279500;64;312;3;1932;1;woonhuis;18;4
+1016 VT Amsterdam;Looiersgracht 120 PP;52.37090000;4.88160000;95000;0;0;1;0;0;parkeergelegenheid;5;1
+1069 DA Amsterdam;Wolbrantskerkweg 104 D;52.35560000;4.79070000;225000;90;245;10;2004;0;appartement;17;3
+1051 JK Amsterdam;Rochussenstraat 9 I;52.38180000;4.87170000;220000;37;120;1;1906;0;appartement;13;2
+1071 XB Amsterdam;Ruysdaelstraat 79 A;52.35520000;4.87890000;2120000;244;735;2;2017;1;appartement;10;5
+1015 BS Amsterdam;Herengracht 100 hs V;52.37840000;4.88360000;995000;188;725;2;1620;0;appartement;27;5
+1051 VC Amsterdam;Van der Hoopstraat 65 III;52.38180000;4.87170000;250000;44;106;1;1906;0;appartement;17;2
+1077 LA Amsterdam;Prinses Margrietstraat 52;52.34600000;4.87380000;2300000;250;930;3;1945;1;woonhuis;44;8
+1063 ML Amsterdam;Willem Kraanstraat 52;52.38140000;4.82590000;195000;0;0;1;0;0;onbekend;1;1
+1069 GD Amsterdam;Akerwateringstraat 149;52.35560000;4.79070000;200000;100;300;2;1996;0;appartement;29;4
+1011 MH Amsterdam;Valkenburgerstraat 141 A+B;52.37100000;4.90410000;440000;119;358;1;1999;0;appartement;33;3
+1054 AJ Amsterdam;Alberdingk Thijmstraat 10 C;52.36170000;4.86690000;949000;149;516;2;1898;1;appartement;34;5
+1102 TS Amsterdam;Barbusselaan 7;52.31660000;4.95170000;155000;84;258;1;1984;0;appartement;18;4
+1082 VJ Amsterdam;Valkhof 38;52.33110000;4.87420000;275000;77;216;1;1963;0;appartement;19;4
+1108 DP Amsterdam;Leusdenhof 306;52.30820000;4.98070000;150000;70;182;1;1980;0;appartement;15;3
+1083 HC Amsterdam;Mensinge 34;52.33020000;4.88440000;569000;161;470;11;1970;0;appartement;16;4
+1087 EN Amsterdam;Diemerparklaan;52.35390000;5.00050000;19750;0;0;1;0;0;onbekend;1;1
+1053 DS Amsterdam;Kinkerstraat 223 -F;52.36680000;4.86810000;275000;73;230;1;1981;0;appartement;30;3
+1071 LD Amsterdam;Palestrinastraat 19 huis;52.35520000;4.87890000;1650000;218;642;3;1906;1;appartement;29;6
+1017 KH Amsterdam;Prinsengracht 494 2;52.36300000;4.89240000;1500000;234;522;2;1906;1;appartement;49;4
+1061 BM Amsterdam;Blauwvoetstraat 73;52.37360000;4.83950000;439000;126;461;2;2012;0;appartement;40;4
+1013 JW Amsterdam;Vinkenstraat 128 ';52.38770000;4.88390000;530000;116;493;3;1997;0;appartement;25;4
+1015 AA Amsterdam;Singel 36 Hs;52.37840000;4.88360000;1650000;204;849;3;1763;1;appartement;42;5
+1046 Amsterdam;Limmerick Garagebox/Opslag;52.39150000;4.78470000;19500;0;0;1;0;0;overigaanbod;7;1
+1061 GM Amsterdam;Sinjeur Semeynsstraat 76 -II;52.37360000;4.83950000;185000;82;285;1;1945;0;appartement;34;3
+1018 EX Amsterdam;Sarphatistraat 77 C;52.36760000;4.91840000;1237500;165;520;2;1906;0;appartement;33;3
+1098 BH Amsterdam;Linnaeuskade 35 III;52.35290000;4.94220000;600000;119;217;2;1906;0;appartement;19;4
+1017 BM Amsterdam;Reguliersdwarsstraat 46 D;52.36300000;4.89240000;650000;96;290;1;1999;0;appartement;28;3
+1094 SM Amsterdam;Sibogastraat 62;52.36260000;4.93600000;450000;100;257;1;1998;0;appartement;30;4
+1077 BH Amsterdam;Apollolaan 166;52.34600000;4.87380000;4500000;477;2125;3;1906;1;woonhuis;1;11
+1072 RE Amsterdam;Lizzy Ansinghstraat 117;52.35350000;4.89020000;300000;59;187;1;1986;1;appartement;17;2
+1104 HL Amsterdam;Kouwenoordweg 14;52.31640000;4.97760000;250000;166;559;3;2011;1;woonhuis;28;7
+1074 VR Amsterdam;Pieter Aertszstraat 121 1;52.35390000;4.90420000;239000;37;116;1;1912;0;appartement;17;2
+1086 XZ Amsterdam;Jan Olphert Vaillantlaan 49 A;52.36280000;4.98190000;300000;69;190;1;2005;1;appartement;19;3
+1016 GE Amsterdam;Keizersgracht 456 A;52.37090000;4.88160000;850000;107;383;1;1680;1;appartement;23;4
+1021 VL Amsterdam;Mezenstraat 44;52.38460000;4.91720000;300000;86;314;2;1931;0;appartement;36;5
+1076 TR Amsterdam;Sportstraat 41 -2;52.34550000;4.86070000;289000;52;140;1;1926;0;appartement;18;3
+1066 TH Amsterdam;Oudenaardeplantsoen 15;52.34600000;4.81630000;359000;113;325;3;1995;1;woonhuis;21;5
+1017 JW Amsterdam;Prinsengracht 711 A;52.36300000;4.89240000;895000;132;366;1;1923;1;appartement;26;3
+1060 MG Amsterdam;Groenlandstraat 28;52.34910000;4.78350000;450000;154;435;3;2003;1;woonhuis;31;7
+1019 DK Amsterdam;Entrepothof 55;52.37330000;4.93910000;40000;0;0;1;0;0;onbekend;1;1
+1011 CP Amsterdam;Nieuwe Ridderstraat 6;52.37100000;4.90410000;650000;105;284;3;1906;0;woonhuis;9;3
+1078 PX Amsterdam;Rijnstraat 49 -3;52.34640000;4.89770000;269500;53;138;1;1906;0;appartement;20;3
+1052 VG Amsterdam;Gillis van Ledenberchstraat 2 G;52.37700000;4.87400000;425000;80;248;1;1924;0;appartement;19;2
+1056 CN Amsterdam;Hoofdweg 349 hs;52.37320000;4.85600000;265000;59;207;1;1927;1;appartement;21;2
+1060 TV Amsterdam;Pieter Calandlaan 616;52.34910000;4.78350000;249500;95;240;1;1998;0;appartement;1;3
+1012 DT Amsterdam;Oudezijds Achterburgwal 126 E;52.37350000;4.89510000;599000;112;327;3;1664;0;appartement;20;4
+1068 ZT Amsterdam;Kweekhoven 10;52.35920000;4.80520000;400000;151;582;4;2009;0;woonhuis;29;7
+1017 BA Amsterdam;Beulingstraat 2 E;52.36300000;4.89240000;750000;91;270;1;1906;0;appartement;19;3
+1094 HX Amsterdam;Javaplein 20 A;52.36260000;4.93600000;225000;39;137;1;1916;1;appartement;20;2
+1011 LM Amsterdam;Nieuwe Uilenburgerstraat 3 w;52.37100000;4.90410000;375000;62;185;1;1988;0;appartement;30;2
+1095 MS Amsterdam;Zeeburger Zilt 2 (Bouwnr. 173);52.36660000;4.95200000;373059;104;260;1;2011;0;appartement;4;4
+1069 MN Amsterdam;Zwarte Pad 10;52.35560000;4.79070000;498000;0;0;1;0;0;onbekend;1;1
+1017 EX Amsterdam;Keizersgracht 746 3;52.36300000;4.89240000;725000;90;298;1;1906;1;appartement;23;3
+1075 SH Amsterdam;Zeilstraat 20 I;52.35180000;4.85860000;299000;67;223;1;1912;0;appartement;13;3
+1097 VE Amsterdam;Middenweg 548;52.34650000;4.93010000;199000;48;144;1;1926;1;appartement;16;2
+1015 DR Amsterdam;Prinsengracht 145 A+C;52.37840000;4.88360000;1155000;185;419;5;1785;0;appartement;31;7
+1058 GX Amsterdam;Antillenstraat 21 III;52.35790000;4.85100000;350000;69;204;1;1930;0;appartement;28;4
+1054 ES Amsterdam;Stadhouderskade 20 L;52.36170000;4.86690000;2595000;213;619;1;1991;0;appartement;34;4
+1078 DB Amsterdam;Churchill-laan 15;52.34640000;4.89770000;580000;0;0;1;0;0;onbekend;1;1
+1058 GA Amsterdam;Saskia van Uijlenburgkade 108;52.35790000;4.85100000;750000;137;427;1;2008;0;appartement;18;4
+1071 NX Amsterdam;De Lairessestraat 95 I;52.35520000;4.87890000;1399000;167;649;2;1920;0;appartement;38;5
+1103 TX Amsterdam;Bijlmerdreef 1203;52.32310000;4.97220000;245000;74;192;1;2007;0;appartement;1;3
+1058 JN Amsterdam;Haarlemmermeerstraat 31 III;52.35790000;4.85100000;775000;145;503;3;1933;0;appartement;36;5
+1082 EL Amsterdam;Zuid-Hollandstraat 48 2;52.33110000;4.87420000;260000;78;251;1;1963;0;appartement;23;4
+1095 LG Amsterdam;Zeeburgerdijk 712;52.36660000;4.95200000;400000;0;0;1;0;0;onbekend;1;1
+1091 CE Amsterdam;Ruyschstraat 70 hs;52.35560000;4.91350000;375000;67;274;1;1898;1;appartement;25;3
+1061 GM Amsterdam;Sinjeur Semeynsstraat 76 -III;52.37360000;4.83950000;175000;80;280;1;1945;0;appartement;32;3
+1055 TA Amsterdam;Blancefloorstraat 1 I;52.38020000;4.85240000;249000;57;160;1;1939;0;appartement;32;4
+1073 GH Amsterdam;Rustenburgerstraat 126 HS;52.35320000;4.89820000;275000;45;135;1;1905;1;appartement;20;2
+1053 GS Amsterdam;Jan Pieter Heijestraat 94 -I;52.36680000;4.86810000;180000;27;75;1;1890;0;appartement;9;1
+1082 MT Amsterdam;George Gershwinlaan 157;52.33110000;4.87420000;50000;0;0;1;0;0;parkeergelegenheid;3;1
+1055 HV Amsterdam;Lucellestraat 33 III;52.38020000;4.85240000;269000;50;131;4;1931;0;appartement;28;3
+1087 Amsterdam;Peter Wotkehof;52.35390000;5.00050000;27500;0;0;1;0;0;parkeergelegenheid;1;1
+1032 CS Amsterdam;Latherusstraat 27;52.39640000;4.91260000;265000;76;250;2;1934;0;appartement;14;3
+1022 AB Amsterdam;Nieuwendammerkade 28 A5;52.39870000;4.92990000;825000;232;599;2;2000;0;appartement;26;5
+1059 TR Amsterdam;Westlandgracht 245 II;52.34880000;4.84680000;300000;62;204;1;1935;0;appartement;36;4
+1087 CM Amsterdam;Alexandrine Tinnehof;52.35390000;5.00050000;24000;0;0;1;0;0;parkeergelegenheid;2;1
+1054 ES Amsterdam;Stadhouderskade 16 B;52.36170000;4.86690000;1900000;224;653;1;1991;0;appartement;27;5
+1071 KX Amsterdam;Alexander Boersstraat 6;52.35520000;4.87890000;1695000;174;1583;4;1895;1;woonhuis;32;6
+1077 JX Amsterdam;Beethovenstraat 186 IV;52.34600000;4.87380000;850000;165;531;1;1961;0;appartement;30;4
+1055 NJ Amsterdam;Gibraltarstraat 41 II;52.38020000;4.85240000;215000;52;136;1;1934;0;appartement;24;3
+1053 TA Amsterdam;Schimmelstraat 5 II-III;52.36680000;4.86810000;525000;100;283;2;1906;0;appartement;19;3
+1053 PH Amsterdam;Borgerstraat 153 DE;52.36680000;4.86810000;389000;79;220;4;1903;0;appartement;12;3
+1024 VB Amsterdam;Groetstraat 127;52.39390000;4.95470000;165000;64;180;1;1966;0;appartement;25;3
+1077 EN Amsterdam;Gerrit van der Veenstraat 110 H;52.34600000;4.87380000;1100000;137;658;1;1928;1;appartement;40;4
+1054 LC Amsterdam;Frederiksstraat 12 1;52.36170000;4.86690000;295000;0;0;1;0;0;onbekend;1;1
+1096 GG Amsterdam;Amstelvlietstraat 329;52.33870000;4.91970000;245000;52;164;7;2013;0;appartement;19;2
+1016 AA Amsterdam;Singel 204 A-B;52.37090000;4.88160000;2950000;263;900;1;1925;0;appartement;30;6
+1055 RD Amsterdam;Willem de Zwijgerlaan 334 -D14;52.38020000;4.85240000;175000;49;215;1;1959;0;appartement;26;3
+1051 KA Amsterdam;Van Bossestraat 40 III/IV;52.38180000;4.87170000;475000;79;264;2;1931;0;appartement;24;3
+1065 DB Amsterdam;Jacques Veltmanstraat 181;52.35730000;4.82780000;295000;81;198;1;2003;0;appartement;30;3
+1061 DL Amsterdam;Jan van Schaffelaarplantsoen 21 b;52.37360000;4.83950000;230000;58;163;4;1952;0;appartement;23;3
+1068 CT Amsterdam;Ruimzicht 176;52.35920000;4.80520000;250000;73;227;1;1967;0;appartement;24;2
+1059 XZ Amsterdam;Stolwijkstraat 62 I;52.34880000;4.84680000;295000;59;165;1;1931;0;appartement;23;3
+1058 HL Amsterdam;Sloterkade 102;52.35790000;4.85100000;319000;50;150;4;2004;0;appartement;30;2
+1060 NP Amsterdam;Pyreneeën 39;52.34910000;4.78350000;475000;153;554;3;1995;1;woonhuis;29;6
+1060 RE Amsterdam;Ladogameerhof 155;52.34910000;4.78350000;235000;84;265;2;1999;0;appartement;22;4
+1065 LW Amsterdam;Aaf Bouberstraat 152;52.35730000;4.82780000;249000;0;0;1;0;0;onbekend;1;1
+1071 DP Amsterdam;Johannes Vermeerstraat 87 Huis;52.35520000;4.87890000;830000;134;486;1;1912;1;appartement;27;4
+1075 CJ Amsterdam;Koninginneweg 81 hs;52.35180000;4.85860000;1295000;223;641;3;1897;1;appartement;41;5
+1052 CV Amsterdam;Nassaukade 86 3;52.37700000;4.87400000;550000;103;367;1;1887;0;appartement;19;2
+1075 GP Amsterdam;Valeriusstraat 286 III;52.35180000;4.85860000;850000;139;383;3;1906;0;appartement;32;6
+1011 TZ Amsterdam;Rapenburg 72;52.37100000;4.90410000;485000;84;276;4;1906;0;appartement;24;3
+1059 AH Amsterdam;Aalsmeerweg 127 I;52.34880000;4.84680000;289000;61;202;1;1906;0;appartement;21;3
+1067 RK Amsterdam;Van Karnebeekstraat 14;52.37860000;4.79870000;530000;156;405;3;2010;1;woonhuis;29;5
+1018 MM Amsterdam;Johanna ter Meulenplein 20;52.36760000;4.91840000;295000;54;135;1;1991;0;appartement;32;2
+1097 RG Amsterdam;Réaumurstraat 6;52.34650000;4.93010000;450000;69;204;2;1906;1;woonhuis;37;3
+1057 WS Amsterdam;Marco Polostraat 70 hs;52.36770000;4.85510000;370000;72;215;1;1929;1;appartement;18;3
+1087 DK Amsterdam;Bert Haanstrakade 234;52.35390000;5.00050000;500000;139;435;2;2007;0;appartement;34;4
+1025 MT Amsterdam;Diopter 154;52.39900000;4.93610000;350000;117;310;3;1998;0;woonhuis;18;4
+1083 EA Amsterdam;Van Nijenrodeweg 5 .;52.33020000;4.88440000;170000;34;95;1;1955;0;appartement;19;2
+1095 JK Amsterdam;Valentijnkade 50 III;52.36660000;4.95200000;399000;92;217;2;1926;0;appartement;24;4
+1057 BJ Amsterdam;Orteliusstraat 156 III-IV;52.36770000;4.85510000;319000;70;235;2;1926;1;appartement;24;3
+1055 RZ Amsterdam;Nieuwpoortstraat 86 B7;52.38020000;4.85240000;420000;89;314;1;2017;1;appartement;19;2
+1081 EA Amsterdam;Bolestein 198;52.32780000;4.86200000;325000;93;302;1;1969;0;appartement;19;4
+1073 TV Amsterdam;Van Ostadestraat 240 I;52.35320000;4.89820000;299000;51;148;1;1906;0;appartement;25;2
+1032 LP Amsterdam;Johan van Hasseltkade 292;52.39640000;4.91260000;1200000;203;659;1;2015;0;appartement;30;4
+1052 XZ Amsterdam;Frederik Hendrikplantsoen 102 IV;52.37700000;4.87400000;400000;79;215;1;1910;0;appartement;18;4
+1087 MH Amsterdam;Loet C. Barnstijnstraat 3;52.35390000;5.00050000;400000;100;355;3;2007;0;woonhuis;29;4
+1081 KK Amsterdam;Gaffelaarspad 34 *;52.32780000;4.86200000;1095000;170;405;1;2001;0;appartement;17;4
+1103 AT Amsterdam;Endumeni 14;52.32310000;4.97220000;300000;129;460;3;2007;1;woonhuis;39;5
+1103 DD Amsterdam;Joke Smitstraat 9;52.32310000;4.97220000;300000;145;388;3;1997;1;woonhuis;37;5
+1083 GA Amsterdam;Weerdestein 31;52.33020000;4.88440000;450000;135;351;1;1968;0;appartement;20;4
+1066 SL Amsterdam;Berlaarstraat 385;52.34600000;4.81630000;525000;170;570;3;1994;1;woonhuis;49;6
+1068 PA Amsterdam;Jan Ligthartstraat 8;52.35920000;4.80520000;31000;0;0;1;0;0;parkeergelegenheid;2;1
+1017 ZV Amsterdam;Nicolaas Witsenkade 46 A;52.36300000;4.89240000;1395000;225;670;2;1906;0;appartement;39;6
+1065 EW Amsterdam;Van Mourik Broekmanstraat 8 III;52.35730000;4.82780000;200000;73;235;1;1960;0;appartement;18;3
+1053 DT Amsterdam;Kinkerstraat 12 C II;52.36680000;4.86810000;200000;41;131;1;1888;0;appartement;18;2
+1083 DB Amsterdam;Kanteel 64;52.33020000;4.88440000;398000;100;295;4;1987;0;appartement;19;3
+1015 DT Amsterdam;Prinsengracht 211 E;52.37840000;4.88360000;640000;83;217;1;1680;0;appartement;28;3
+1076 KS Amsterdam;Argonautenstraat 50 I;52.34550000;4.86070000;325000;62;210;1;1935;0;appartement;11;3
+1052 LT Amsterdam;Hugo de Grootkade 42 HS;52.37700000;4.87400000;275000;47;118;1;1894;1;appartement;23;2
+1058 HV Amsterdam;Andreas Schelfhoutstraat 30;52.35790000;4.85100000;239500;0;0;1;0;0;onbekend;1;1
+1035 VL Amsterdam;Amoebastraat 36;52.41960000;4.89440000;250000;97;450;3;1956;1;woonhuis;35;5
+1077 RW Amsterdam;Stadionweg 41 I;52.34600000;4.87380000;750000;146;510;1;1931;0;appartement;27;4
+1012 HL Amsterdam;Pieter Jacobszstraat 10 (C)*;52.37350000;4.89510000;325000;59;183;1;1989;0;appartement;20;2
+1068 NM Amsterdam;Pieter Calandlaan 461;52.35920000;4.80520000;275000;130;390;3;1969;1;woonhuis;11;5
+1091 TN Amsterdam;Overamstelstraat 10 /III;52.35560000;4.91350000;545000;107;328;2;1900;0;appartement;31;3
+1063 BZ Amsterdam;Theodorus Dobbestraat 82 -3;52.38140000;4.82590000;175000;65;220;1;1960;0;appartement;23;3
+1022 KL Amsterdam;G.J. Scheurleerweg 94;52.39870000;4.92990000;400000;117;410;2;2012;1;woonhuis;39;5
+1087 GK Amsterdam;Kiekstraat (P16);52.35390000;5.00050000;14450;0;0;1;0;0;parkeergelegenheid;1;1
+1056 HR Amsterdam;Bestevâerstraat 96 IV;52.37320000;4.85600000;325000;58;204;5;1906;1;appartement;28;2
+1093 HR Amsterdam;Wijttenbachstraat 19 B;52.36180000;4.92800000;550000;127;430;5;1998;1;appartement;46;5
+1017 DN Amsterdam;Keizersgracht 515 -R;52.36300000;4.89240000;825000;85;219;1;1906;0;appartement;18;3
+1091 CE Amsterdam;Ruyschstraat 70 -III/IV;52.35560000;4.91350000;575000;123;388;2;1906;0;appartement;22;4
+1017 BS Amsterdam;Herengracht 455 B;52.36300000;4.89240000;660000;88;355;1;1906;0;appartement;17;3
+1052 SG Amsterdam;Da Costakade 35 huis;52.37700000;4.87400000;899000;140;364;2;1906;1;appartement;29;3
+1017 VE Amsterdam;Nieuwe Looiersstraat 116;52.36300000;4.89240000;325000;52;150;1;1996;1;appartement;22;2
+1061 BV Amsterdam;Blauwvoetstraat 10 hs;52.37360000;4.83950000;317500;79;198;2;1952;1;appartement;13;5
+1024 XR Amsterdam;Dijkmanshuizenstraat 82;52.39390000;4.95470000;425000;135;410;3;2012;1;woonhuis;26;5
+1071 GE Amsterdam;Van Eeghenstraat 10 -hs+1;52.35520000;4.87890000;1600000;191;677;3;1896;1;appartement;24;7
+1055 AB Amsterdam;Hoofdweg 558;52.38020000;4.85240000;325000;85;270;5;2008;0;appartement;24;2
+1016 HM Amsterdam;Prinsengracht 407 -B;52.37090000;4.88160000;310000;38;96;1;1906;0;appartement;25;2
+1017 AG Amsterdam;Amstel 184 II;52.36300000;4.89240000;599000;88;250;2;1895;0;appartement;24;4
+1017 NA Amsterdam;Leidsegracht 17 hs+I;52.36300000;4.89240000;1410000;235;663;3;1906;0;appartement;18;4
+1017 RL Amsterdam;Lijnbaansgracht 267 I;52.36300000;4.89240000;259000;41;136;1;1905;0;appartement;26;2
+1053 CG Amsterdam;Ten Katestraat 26 A II;52.36680000;4.86810000;279000;54;195;1;1906;0;appartement;15;2
+1053 TA Amsterdam;Schimmelstraat 3 C;52.36680000;4.86810000;600000;100;313;2;1900;1;appartement;25;4
+1019 JX Amsterdam;C.J.K. van Aalststraat 72;52.37330000;4.93910000;575000;170;592;4;2001;0;woonhuis;42;7
+1086 XX Amsterdam;Pedro Nunesstraat 4;52.36280000;4.98190000;525000;137;483;2;2007;1;woonhuis;43;4
+1083 GR Amsterdam;Arent Janszoon Ernststraat 97;52.33020000;4.88440000;390000;111;333;1;1960;0;appartement;17;3
+1083 KD Amsterdam;Beysterveld 217;52.33020000;4.88440000;695000;193;576;1;1987;0;appartement;27;4
+1025 ZX Amsterdam;Amerbos 410;52.39900000;4.93610000;29500;0;0;1;0;0;parkeergelegenheid;6;1
+1068 ER Amsterdam;Osdorpplein 208;52.35920000;4.80520000;289000;92;272;1;1997;0;appartement;26;4
+1066 ML Amsterdam;Bocholtstraat 94;52.34600000;4.81630000;259000;85;261;1;1994;0;appartement;26;4
+1052 DD Amsterdam;De Wittenkade;52.37700000;4.87400000;49500;0;0;1;0;0;parkeergelegenheid;1;1
+1055 TL Amsterdam;Bestevâerstraat 189 hs;52.38020000;4.85240000;350000;89;285;4;1925;1;appartement;42;4
+1019 HH Amsterdam;Zeeburgerkade 96;52.37330000;4.93910000;375000;85;283;1;1990;0;appartement;20;3
+1106 AN Amsterdam;Ruiseveenpad 102;52.29910000;4.97540000;147500;85;180;4;1984;0;appartement;1;4
+1055 VX Amsterdam;Joris van Andringastraat 16 -2;52.38020000;4.85240000;440000;83;208;2;1934;1;appartement;21;3
+1056 BC Amsterdam;Erasmusgracht 29 -1;52.37320000;4.85600000;225000;53;181;1;1934;0;appartement;22;3
+1061 CC Amsterdam;Ernest Staesstraat 47;52.37360000;4.83950000;470000;159;425;3;1945;1;appartement;9;9
+1096 DS Amsterdam;STATE Amsterdam (Bouwnr. 14);52.33870000;4.91970000;4136;0;0;1;0;0;parkeergelegenheid;1;1
+1058 GX Amsterdam;Antillenstraat 21 1;52.35790000;4.85100000;314000;60;175;1;1930;0;appartement;15;3
